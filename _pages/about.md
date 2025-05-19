@@ -23,12 +23,12 @@ redirect_from:
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 We have released [ReEx-SQL](https://yaxundai.github.io/), a Text-to-SQL framework based on execution-aware reinforcement learning, which optimizes reasoning through execution feedback.
-- *2025.05*: &nbsp;🎉🎉 Our (PARSQL)[https://yaxundai.github.io/] paper has been accepted to **ACL 2025 Findings**! Many thanks to Dr. (Haiqin Yang)[https://hqyang.github.io/] for his valuable guidance!
+- *2025.05*: &nbsp;🎉🎉 Our [PARSQL](https://yaxundai.github.io/) paper has been accepted to **ACL 2025 Findings**! Many thanks to [Dr.Haiqin Yang](https://hqyang.github.io/) for his valuable guidance!
 - *2025.02*: &nbsp;🎉🎉 We have released [PARSQL](https://yaxundai.github.io/), a framework that improves the performance of LLMs through SQL parsing and reasoning.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV 2025</div><img src='images/ReExSQL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV 2025</div><img src='images/ReExSQL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ReEx-SQL: Reasoning with Execution-Aware Reinforcement Learning for Text-to-SQL](https://yaxundai.github.io/)
@@ -42,7 +42,7 @@ Preprint, 2025.05
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV 2025</div><img src='images/PARSQL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 findings</div><img src='images/PARSQL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PARSQL: Enhancing Text-to-SQL through SQL Parsing and Reasoning](https://yaxundai.github.io/)
@@ -56,19 +56,18 @@ Preprint, 2025.05
 </div>
 
 
-
-
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.09 - 2023.06* Received 9 national, 16 provincial, and 23 university-level awards during undergraduate studies.
+- *2022.4* ASC Student Supercomputer Challenge Second Prize.
+- *2022.2* Second Prize in the National Undergraduate Mathematics Competition.
+- *2021.09* National Second Prize in the China Undergraduate Mathematical Contest in Modeling (CUMCM).
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.09 - Present*, Master of Software Engineering, Soochow University
+- *2019.09 - 2023.06*, Bachelor of Computer Science and Technology, North China University of Science and Technology (Ranking 2/156)
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.02 - 2025.05*, Research Intern at [Guangming Laboratory](https://www.gml.ac.cn/), Shenzhen, China.
+- *2024.07 - 2024.12*, Research Intern at [IDEA (International Digital Economy Academy)](https://www.idea.edu.cn/), Shenzhen, China.
+- *2023.04 - 2023.08*, Algorithm Intern at [Benewake](https://en.benewake.com/index.html), Beijing, China.
