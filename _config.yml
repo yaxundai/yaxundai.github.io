@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yaxun Dai(代亚勋)"
   avatar           : "images/avatar.png"
-  bio              : 
+  bio              : "Master's student at Soochow University"
   location         : "Suzhou, China"
-  employer         :
+  employer         : "Soochow University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ayjg41YAAAAJ"
   email            : "yaxundai@gmail.com"
