@@ -25,7 +25,7 @@ redirect_from:
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 We have released [ReEx-SQL](https://yaxundai.github.io/), a Text-to-SQL framework based on execution-aware reinforcement learning, which optimizes reasoning through execution feedback.
+- *2025.05*: &nbsp;🎉🎉 We have released [ReEx-SQL](https://arxiv.org/abs/2505.12768), a Text-to-SQL framework based on execution-aware reinforcement learning, which optimizes reasoning through execution feedback.
 - *2025.05*: &nbsp;🎉🎉 Our [PARSQL](https://yaxundai.github.io/) paper has been accepted to **ACL 2025 Findings**! Many thanks to [Dr.Haiqin Yang](https://hqyang.github.io/) for his valuable guidance!
 - *2025.02*: &nbsp;🎉🎉 We have released [PARSQL](https://yaxundai.github.io/), a framework that improves the performance of LLMs through SQL parsing and reasoning.
 
@@ -34,7 +34,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV 2025</div><img src='images/ReExSQL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ReEx-SQL: Reasoning with Execution-Aware Reinforcement Learning for Text-to-SQL](https://yaxundai.github.io/)
+[ReEx-SQL: Reasoning with Execution-Aware Reinforcement Learning for Text-to-SQL](https://arxiv.org/abs/2505.12768)
 
 **Yaxun Dai**, Wenxuan Xie, Xialie Zhuang, Tianyu Yang, Yiying Yang, Haiqin Yang, Yuhang Zhao, Pingfu Chao, Wenhao Jiang
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
